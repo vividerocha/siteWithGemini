@@ -1,7 +1,7 @@
 import{GoogleGenerativeAI, HarmCategory, HarmBlockThreshold } from 'https://cdn.jsdelivr.net/npm/@google/generative-ai/+esm';
 
 const MODEL_NAME = "gemini-1.5-pro-latest";
-const API_KEY = "AIzaSyAGi5xWaHWr_jU0SO6roT7ufE51a1zAdlM";
+const API_KEY = "SUA KEY AQUI";
 
 
 const generationConfig = {
