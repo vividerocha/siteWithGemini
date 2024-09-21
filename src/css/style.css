@@ -1,3 +1,27 @@
-body{
-    background-color: rgb(230, 230, 230);
+body {
+    background-color: rgb(167, 227, 241);
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color: #862f70;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Sombra suave no texto */
+    padding: 10px; /* Espaçamento interno */
+    border-radius: 8px; /* Bordas arredondadas */
+    text-align: center; /* Centraliza o texto */
+}
+
+
+#esquerda{
+    background-color: #0b5370;
+    width: 40%;
+}
+
+#direita{
+    width: 60%;
+    padding: 30px;;
 }
